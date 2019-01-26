@@ -1,5 +1,5 @@
 # User-Authentication-System-using-Django
-## It has following fratures
+## It has following features
   * Login
     * update details
     * update password
@@ -13,3 +13,7 @@
   * Well framed of error details pops out during signup or login error.
   * Cross password validation while signup and update password.
     
+## Used technologies
+ * Python's django
+ * Bootstrap
+ * pinch of HTML and CSS
