@@ -21,8 +21,8 @@
   * pip install django
   * download and extract this project.
   * open power shell and go to this folder.
-  * type 'python manage.py runserver.
-  * open browser and type 'localhost:8000/authenticate.
+  * type 'python manage.py runserver'.
+  * open browser and type 'localhost:8000/authenticate'.
   * you will get the start page, now signup, modify and do all the operation as specified in the features.
   
 # For any query feel free to contact me
